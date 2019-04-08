@@ -1,0 +1,108 @@
+trądzik																	1					0.009259259259259259
+przesuszona skóra																	1					0.018518518518518517
+pękające naczyńka																	1					0.027777777777777776
+zmiany na skórze																	1					0.037037037037037035
+zmiany na znamieniu																	1					0.046296296296296294
+grzybica																	1					0.05555555555555555
+nadmierne wypadanie włosów																	1					0.06481481481481481
+świerzb																	1					0.07407407407407407
+łupież																	1					0.08333333333333333
+znamiona barwnikowe(pieprzyki)																	1					0.09259259259259259
+opryszczka																	1					0.10185185185185185
+kurzajki																	1					0.1111111111111111
+laszaj																	1					0.12037037037037036
+nadmierna potliwość																	1					0.12962962962962962
+wszy																	1					0.1388888888888889
+bóle w podbrzuszu																	2					0.14814814814814814
+bardzo bolesne miesiączki																	2					0.1574074074074074
+obfite krwawienia miesięczne																	2					0.16666666666666666
+nieregularne cykle miesiączkowe																	2					0.17592592592592593
+plamienia acykliczne																	2					0.18518518518518517
+upławy																	2					0.19444444444444445
+świąd i pieczenie pochwy																	2					0.2037037037037037
+bóle w piersiach																	2					0.21296296296296297
+zbyt wczesne lub opóźnione dojrzewanie																	2					0.2222222222222222
+problemy z zajściem w ciążę																	2					0.23148148148148148
+ból podczas lub po stosunku																	2					0.24074074074074073
+krwawienia podczas lub po stosunku																	2					0.25
+suchość pochwy																	2					0.25925925925925924
+objawy uboczne antykoncepcji hormonalnej																	2					0.26851851851851855
+objawy ciąży																	2					0.2777777777777778
+Gorączka																	3					0.28703703703703703
+Dreszcze																	3					0.2962962962962963
+Uczucie zmęczenia																	3					0.3055555555555556
+Bóle kostno-stawowe																	3					0.3148148148148148
+Bóle głowy																	3					0.32407407407407407
+Katar																	3					0.3333333333333333
+Kaszel																	3					0.3425925925925926
+suchość w nosie																	3					0.35185185185185186
+suchość w gardle																	3					0.3611111111111111
+ból gardła																	3					0.37037037037037035
+chrypka																	3					0.37962962962962965
+stan podgorączkowy																	3					0.3888888888888889
+ból zatok																	3					0.39814814814814814
+złe samopoczucie																	3					0.4074074074074074
+zmęczenie																	3					0.4166666666666667
+kichanie																	3					0.42592592592592593
+osłabienie																	3					0.4351851851851852
+drapanie i pieczenie w gardle																	3					0.4444444444444444
+Ból w klatce piersiowej(kłucie)																	4					0.4537037037037037
+Zasinienie skóry																	4					0.46296296296296297
+Obrzęki																	4					0.4722222222222222
+Kołatanie serca																	4					0.48148148148148145
+Omdlenia																	4					0.49074074074074076
+Zmęczenie																	4					0.5
+Duszność																	4					0.5092592592592593
+nadciśnienie tętnicze																	4					0.5185185185185185
+apatia																	4					0.5277777777777778
+uczucie zatkanego ucha																	5					0.5370370370370371
+szumy uszne																	5					0.5462962962962963
+ból ucha																	5					0.5555555555555556
+pogorszenie słuchu																	5					0.5648148148148148
+krwawienie z nosa																	5					0.5740740740740741
+przewlekły katar																	5					0.5833333333333334
+chrapanie																	5					0.5925925925925926
+częsty ból gardła																	5					0.6018518518518519
+dysfagia - zaburzenia połykania																	5					0.6111111111111112
+oddychanie przez usta																	5					0.6203703703703703
+zawroty głowy																	5					0.6296296296296297
+przewlekłe bóle głowy																	5					0.6388888888888888
+zaburzenia równowagi																	5					0.6481481481481481
+zaburzenia węchu																	5					0.6574074074074074
+zaburzenia smaku																	5					0.6666666666666666
+guzy szyi i głowy.																	5					0.6759259259259259
+mrowienie kończyn																	6					0.6851851851851852
+ograniczenie pola widzenia																	6					0.6944444444444444
+nagłe pogorszenie wzroku																	6					0.7037037037037037
+zaburzenia mowy																	6					0.7129629629629629
+poczucie ciągłego rozbicia, problemy ze skupieniem																	6					0.7222222222222222
+kurcze mięśni																	6					0.7314814814814815
+drżenie mięśni																	6					0.7407407407407407
+zaburzenia czucia																	6					0.75
+problemy z koordynacją ruchową																	6					0.7592592592592593
+problemy z pamięcią																	6					0.7685185185185185
+zaburzenia snu																	6					0.7777777777777778
+omdlenia																	6					0.7870370370370371
+﻿pogorszenie ostrości wzroku																	7					0.7962962962962963
+częste mruganie																	7					0.8055555555555556
+częste stany zapalne powiek i spojówek																	7					0.8148148148148148
+mrużenie oczu podczas czytania																	7					0.8240740740740741
+podwójne widzenie																	7					0.8333333333333334
+"mroczki" przed oczami																	7					0.8425925925925926
+zaburzenia pola widzenia																	7					0.8518518518518519
+swędzenie i pieczenie gałki ocznej																	7					0.8611111111111112
+światłowstręt																	7					0.8703703703703703
+przekrwienie oka																	7					0.8796296296296297
+silny ból oczodołu																	7					0.8888888888888888
+bóle głowy																	7					0.8981481481481481
+﻿nietrzymanie moczu																	8					0.9074074074074074
+ból przy oddawaniu moczu																	8					0.9166666666666666
+zmiany w moczu (białkomocz, krwiomocz, ropa w moczu, spieniony mocz, ciemna barwa moczu)																	8					0.9259259259259259
+zmiany w ilości oddawanego moczu: więcej niż 7 razy na dobę, zbyt mała ilość oddawanego moczu																	8					0.9351851851851852
+ból lub obrzęk jąder																	8					0.9444444444444444
+uczucie parcia na pęcherz																	8					0.9537037037037037
+ból po urazie w okolicach podbrzusza																	8					0.9629629629629629
+pieczenie lub swędzenie cewki moczowej																	8					0.9722222222222222
+zmiany w wyglądzie prącia (zaczerwienienia, obrzęki)																	8					0.9814814814814815
+ból w dolnej części pleców																	8					0.9907407407407407
+obrzęki nóg																	8					1.0

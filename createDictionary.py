@@ -2,6 +2,7 @@
 
 import io
 import os
+from random import shuffle
 dictionary = io.open('dictionary.txt', mode='w+', encoding="utf-8")
 map = io.open('dictionary.txt', mode='w+', encoding="utf-8")
 
@@ -10,6 +11,7 @@ dict_index=1
 out_text = ''
 encoding = 'utf-8'
 symptomList = []
+tempSymptomList = []
 path = 'symptoms'
 specialization=0
 
@@ -37,8 +39,12 @@ with io.open('dictionary.txt', 'w', encoding=encoding) as f:
             if tempLine not in symptomList:
                 symptomList.append(tempLine)
                 out_text = tempLine+"\n"
-                f.write(out_text)
+                tempSymptomList.append(out_text)
+                # f.write(out_text)
                 dict_index += 1
+    # shuffle(tempSymptomList)
+    for item in tempSymptomList:
+        f.write(item)
 f.close()
 
 
